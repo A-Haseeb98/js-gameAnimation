@@ -1,0 +1,12 @@
+body{
+    background-image: url('images/background.jpg');
+    background-repeat: no-repeat;
+}
+
+.rue{
+    position: absolute;
+    bottom: 25px;
+    left: 100px;
+    height: 400px;
+    width: 400opx;
+}
